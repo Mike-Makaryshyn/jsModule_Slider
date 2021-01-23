@@ -6,15 +6,8 @@ npx webpack to run webpack and compile the module.
  
 Main arguments:
 
-totalCounter - amount of slides 
-currentCounter - class of each numbers 
-field - space for slides  
-      container: class
-      nextArrow: class
-      prevArrow: class
-      slide: class
-      totalCounter: id 
-      currentCounter: id
-      wrapper: class
-      field: class
+totalCounter - amount of slides;
+currentCounter - class of each numbers;
+field - space for slides.
+      
      
